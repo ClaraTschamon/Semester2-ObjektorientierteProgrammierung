@@ -1,5 +1,6 @@
 # Semester2-ObjektorientierteProgrammierung
-Alle Übungsbeispiele der Lehrveranstaltung.<br/>
+Alle Übungsbeispiele der Lehrveranstaltung Elementare Algorithmen und objektorientierte Programmierung an der FH Vorarlberg im 3. Semester des Studiengangs Informatik-Information and Software Engineering Vollzeit.<br/>
+
 Programmiersprache: Java
 
 Lehrender: Prof. (FH) Dipl.-Ing. Wolfgang Auer
