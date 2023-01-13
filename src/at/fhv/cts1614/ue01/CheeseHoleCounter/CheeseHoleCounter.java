@@ -1,6 +1,6 @@
-package at.fhv.cts1614.ue01;
+package at.fhv.cts1614.ue01.CheeseHoleCounter;
 
-class CheeseTest {
+class CheeseHoleCounter {
 
     static Character[][] Cheese = {{' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '},
                                    {' ', '*', '*', '*', ' ', ' ', '*', ' '},

@@ -1,6 +1,6 @@
 //Clara Tschamon, Gruppe 1
 
-package at.fhv.cts1614.ue01;
+package at.fhv.cts1614.ue01.CirclePointRectangle;
 
 import java.util.Objects;
 

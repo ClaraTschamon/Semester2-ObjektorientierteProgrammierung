@@ -1,5 +1,8 @@
 package at.fhv.cts1614.ue01;
 
+import at.fhv.cts1614.ue01.CirclePointRectangle.Circle;
+import at.fhv.cts1614.ue01.CirclePointRectangle.Point;
+import at.fhv.cts1614.ue01.CirclePointRectangle.Rectangle;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

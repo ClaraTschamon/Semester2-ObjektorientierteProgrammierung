@@ -1,5 +1,5 @@
 //Clara Tschamon, Gruppe1
-package at.fhv.cts1614.ue02;
+package at.fhv.cts1614.ue02.RandomPasswordGenerator;
 import java.util.LinkedList;
 import java.util.Random;
 import java.util.ArrayList;

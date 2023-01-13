@@ -1,11 +1,11 @@
 //Clara Tschamon, Gruppe1
-package at.fhv.cts1614.ue02;
+package at.fhv.cts1614.ue02.CaesarCoder;
 
-public class CaesarCoderNew {
+public class CaesarCoder {
     private String _message;
     private int _shift;
 
-    public CaesarCoderNew(int shift, String message){ //shift funktioniert noch nicht so gut
+    public CaesarCoder(int shift, String message){ //shift funktioniert noch nicht so gut
         _shift = shift%26;
         _message = message;
     }
@@ -55,10 +55,10 @@ public class CaesarCoderNew {
     }
 
     public static void main(String[] args) {
-        CaesarCoderNew coder = new CaesarCoderNew(-1, "AZ az bykex 172{ jr3.. ");
+        CaesarCoder coder = new CaesarCoder(-1, "AZ az bykex 172{ jr3.. ");
         String message = coder.encode();
         System.out.println(message);
-        CaesarCoderNew coder1 = new CaesarCoderNew(-1, message);
+        CaesarCoder coder1 = new CaesarCoder(-1, message);
         message = coder1.decode();
         System.out.println(message);
     }

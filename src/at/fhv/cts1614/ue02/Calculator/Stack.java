@@ -1,5 +1,5 @@
 //Clara Tschamon, Gruppe1
-package at.fhv.cts1614.ue02;
+package at.fhv.cts1614.ue02.Calculator;
 
 public class Stack {
     private static final int DEFAULT_STACKSIZE = 64;
