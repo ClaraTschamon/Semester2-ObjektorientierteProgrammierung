@@ -1,0 +1,6 @@
+This is the Text
+to encode...
+it goes
+over
+6
+lines ( ---- :
